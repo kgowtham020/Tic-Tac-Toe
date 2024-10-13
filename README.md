@@ -1,2 +1,2 @@
 # tictactoe
-good looking UI
+With good looking UI
