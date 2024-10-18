@@ -1,4 +1,6 @@
 # tictactoe
-With good looking UI
+it as awesome Ui...
+
+there Two themes 💙 & ♥️ >>>>>
 
 made Using an Ai....
